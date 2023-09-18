@@ -1,0 +1,14 @@
+/*
+Cadastrar um usuario
+logar um usuario
+verificar autenticacao para rotas privatas(JWT)
+mostrar detalhes do usuario logado
+criar e listar categorias
+criar produtos e listar produtos de uma categoria especifica
+abrir uma mesa(order) e poder fechar ela
+adicionar itens a uma mesa e também poder retirar os itens
+enviar(order) retirar de rascunho
+listar todos pedidos que nao estao em rascunho(draft)
+poder acessar todos detalhes de uma mesa com pedidos dela
+concluir o pedido
+*/
